@@ -1,0 +1,23 @@
+package firstpack;
+
+public class TestVariable {
+
+	int x=1;
+	int y=2;
+	int z=3;
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+		
+		
+		 
+		
+		
+	}
+
+}

@@ -1,0 +1,15 @@
+package basic;
+
+public class HelloWorld1 {
+
+	public static void main(String[] args) {
+		System.out.println("my  ");
+		String name="friend";
+		String verb="came and ";
+		String vrb="gave me";
+		double money=550.550;
+		
+		System.out.println("my "+name+" came and "+" gave me "+money);
+	}
+	
+}

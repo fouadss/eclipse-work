@@ -1,0 +1,25 @@
+package basic;
+
+public class MyVariables {
+
+	// declare variable
+	
+	
+	int b;
+	
+	static int c;
+	
+	
+	// initialize variable
+
+	
+	public static void main(String[] args) {
+	
+	int x=30;
+	float z=x;
+		
+		System.out.println(x);
+		System.out.println(z);
+	}
+	
+}

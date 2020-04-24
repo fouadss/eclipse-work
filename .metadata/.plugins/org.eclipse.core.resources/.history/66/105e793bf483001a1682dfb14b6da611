@@ -1,0 +1,41 @@
+package demo;
+
+public class CarClass {
+
+	
+	
+	//Create Car class and use object, constructor, create methods, use if else, for loop
+	
+	String brand;
+	int model;
+	double price;
+	
+	// create default constructor
+	
+	CarClass(){
+		System.out.println("this is car class ");
+		
+	}
+	
+	// create parameterized constructor
+	CarClass(String brand){
+		
+	}
+	// create non-return method
+	public void setModel() {
+		
+		
+	}
+	// create return method
+	public double setPrice() {
+		int x = 1;
+		 int y = 2;
+		double sum = x+y;
+		return sum;
+		
+	}
+	public static void main(String[] args) {
+		CarClass s3= new CarClass();
+		s3.setPrice();
+	}
+}

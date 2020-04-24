@@ -1,0 +1,37 @@
+package firstpack;
+
+public class UseVariables {
+
+	int a; // global variable(non static)
+	static int b; //  satatic variable(global)
+	
+	
+	public  void sum(String name,int age) {
+	
+		
+	
+	System.out.println("student name is "+name+" and his age is "+age);
+	
+	
+	
+	
+	
+	
+	}
+	
+	
+	
+		
+		
+	
+		
+		
+		
+	
+		
+		 
+		
+		
+	
+	
+}

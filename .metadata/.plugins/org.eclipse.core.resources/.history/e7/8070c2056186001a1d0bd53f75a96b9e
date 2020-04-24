@@ -1,0 +1,40 @@
+package demo;
+
+public class ForLoopss {
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+	double a= 4.0 * (1 - (1.0/3) + (1.0/5) - (1.0/7) + (1.0/9)- (1.0/11));
+
+//	int b=24;
+//	int c=a*b;
+//    int d = a+b;
+//    int e= a-b;
+//    int f = a/b;
+    
+    	
+
+	System.out.println(a);
+//	System.out.println(d);
+//	System.out.println(e);
+//	System.out.println(f);
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+}

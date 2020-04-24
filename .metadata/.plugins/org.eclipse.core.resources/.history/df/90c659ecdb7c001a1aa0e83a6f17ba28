@@ -1,0 +1,25 @@
+package basic;
+
+public class NewClass {
+
+	public static void main(String[] args) {
+		
+		Student fouad= new Student();
+		fouad.setId(30217);
+		fouad.setName("fouad");
+		fouad.setAge(26);
+		Student mark= new Student();
+		mark.setId(30218);
+		mark.setName("mark");
+		mark.setAge(27);
+		
+		
+		System.out.println(fouad.getName()+" is "+fouad.getAge()+" years old.");	
+		
+		System.out.println(mark.getName() +" is "+mark.getAge() + " years old.");
+		
+		
+		
+}
+
+}

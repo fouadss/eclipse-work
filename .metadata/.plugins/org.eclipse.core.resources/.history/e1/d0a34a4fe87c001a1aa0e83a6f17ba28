@@ -1,0 +1,32 @@
+package basic;
+
+public class NewClass {
+
+	public static void main(String[] args) {
+		
+	System.out.println(Add(20,10));
+	System.out.println(Add(50.225,40.353));
+	System.out.println(Add("hello everybody,", " how is your day going ?"));
+	
+	
+	
+}
+ public static int Add(int a, int b) {
+	return(a+b);
+ }
+	public static double Add(double a, double b) {
+	
+	return(a+b);
+	
+	}
+	
+	public static String Add(String a, String b) {
+	
+	return(a+b);
+	
+	}
+	
+
+}
+	
+

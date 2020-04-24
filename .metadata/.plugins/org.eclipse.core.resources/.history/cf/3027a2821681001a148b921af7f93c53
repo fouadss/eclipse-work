@@ -1,0 +1,34 @@
+package firstpack;
+
+public  class UseVariables {
+	
+	int a;
+	int b;
+	String name;
+	double salary;
+	int sum;
+	
+	
+	public static void main(String[] args) {
+		
+		UseVariables obj= new UseVariables();
+		 obj.a=10;
+		 obj.b=20;
+		 obj.name="messi";
+		 obj.salary=4521.253;
+		 obj.sum=obj.a+obj.b;
+		 System.out.println(obj.sum);
+		 
+		 
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	} 
+
+

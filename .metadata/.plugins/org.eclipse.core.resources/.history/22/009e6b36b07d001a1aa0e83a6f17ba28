@@ -1,0 +1,15 @@
+package basic;
+
+public class  Cube extends NewClass {
+
+	public final int number;
+		
+	Cube(){
+	number=10;
+		
+	}
+  
+
+ }
+
+

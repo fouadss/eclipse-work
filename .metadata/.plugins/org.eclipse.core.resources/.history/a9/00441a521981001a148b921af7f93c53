@@ -1,0 +1,18 @@
+package firstpack;
+
+import java.util.Scanner;
+
+public class UseScan {
+
+	
+	
+	public static void main(String[] args) {
+		
+		Scanner myScanner= new Scanner(System.in);
+		
+		System.out.println("what is your name?");
+		
+	}
+	
+	
+}

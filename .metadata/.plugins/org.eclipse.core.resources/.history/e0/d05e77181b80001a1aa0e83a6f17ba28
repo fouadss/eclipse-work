@@ -1,0 +1,14 @@
+package firstpackage;
+
+public class MyClass {
+
+	
+	public static void main(String[] args) {
+		Student messi= new Student();
+		messi.id=100;
+		messi.age=30;
+		messi.name="leonel";
+		messi.salary=1225.325;
+		System.out.println("messi's name is "+messi.name);
+	}
+}

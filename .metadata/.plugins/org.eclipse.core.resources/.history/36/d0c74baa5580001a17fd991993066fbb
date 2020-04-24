@@ -1,0 +1,32 @@
+package firstpackage;
+
+public class NewVariables {
+
+int z;
+public int getZ() {
+	return z;
+}
+public void setZ(int z) {
+	this.z = z;
+}
+	
+	
+	static int a=20;
+	public static void main(String[] args) {
+		int x=90;
+		NewVariables obj= new NewVariables();
+		int sum=x+obj.z;
+	obj.z=50;
+	//System.out.println("the sum of z&x is: ");
+	System.out.println(sum);
+	
+	
+	
+	
+	}
+	
+	
+	
+	
+	
+}

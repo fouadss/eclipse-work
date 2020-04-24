@@ -1,0 +1,29 @@
+package firstpack;
+
+public class UseVariables {
+	// declare variables global local static
+	// first is global
+	String fName;
+	String lName;
+	int age;
+    double salary;
+	
+    
+    // initialization
+	
+    
+    fName="mark";
+	
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

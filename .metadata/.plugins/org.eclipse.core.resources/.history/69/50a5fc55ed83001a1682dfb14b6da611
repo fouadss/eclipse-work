@@ -1,0 +1,21 @@
+package firstone;
+
+public class ComputerPractice {
+
+	
+	public static void main(String[] args) {
+		
+		
+		PizzaClass obj1 = new PizzaClass();
+		PizzaClass obj2= new PizzaClass("this pizza is "+ "margherita");
+	
+	
+	}
+	
+	
+	
+	
+	
+	
+	
+}

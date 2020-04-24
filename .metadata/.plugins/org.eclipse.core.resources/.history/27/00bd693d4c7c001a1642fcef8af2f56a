@@ -1,0 +1,21 @@
+package basic;
+
+public class computer {
+	static int age=25;
+	public static String computerbrandname;
+	
+	
+	
+	
+public static void main(String[] args) {
+	
+String mystring="hello everone";
+int mystringlength= mystring.length();
+
+System.out.println(mystringlength);
+		
+		
+		
+	}
+
+}

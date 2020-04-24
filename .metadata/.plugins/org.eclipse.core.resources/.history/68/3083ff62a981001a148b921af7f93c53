@@ -1,0 +1,20 @@
+package firstpack;
+
+public class TestVariable {
+
+Cube cube1 = new Cube();
+
+
+
+
+
+
+
+
+
+
+
+	}
+
+
+

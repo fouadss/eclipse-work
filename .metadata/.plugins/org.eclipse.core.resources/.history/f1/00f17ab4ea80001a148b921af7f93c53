@@ -1,0 +1,30 @@
+package firstpack;
+
+public class UseVariables {
+
+	int a; // global variable(non static)
+	static int b; //  satatic variable(global)
+	
+	
+	public static void main(String[] args) {
+		
+		int c=50;// loacal variable
+		
+		
+		int b=60;
+		UseVariables obj=new UseVariables();
+		obj.a=10;
+		int sum=obj.a+b;
+		
+		System.out.println(sum);
+		
+		
+		
+	}
+		
+		 
+		
+		
+	
+	
+}

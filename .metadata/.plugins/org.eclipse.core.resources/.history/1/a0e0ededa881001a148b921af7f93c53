@@ -1,0 +1,62 @@
+package firstpack;
+
+public class TestVariable {
+
+	
+	int length;
+	int width;
+	int bredth;
+	
+	
+	
+	public TestVariable(){
+		
+		
+		System.out.println("this is my default cons");
+		
+		
+		
+	}
+	public TestVariable(int length,int width,int bredth) {
+		
+		this.length=length;
+		this.width=width;
+		this.bredth=width;
+		
+		
+	}
+	 public int getVolumeCube() {
+		 return(length*width*bredth);
+		 
+	 }
+	
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+		TestVariable s1= new TestVariable();
+
+			TestVariable s2= new TestVariable(10, 20, 30);
+		
+			
+			int cube=s2.getVolumeCube();
+			
+			
+		System.out.println(cube);
+				
+			
+			
+			
+		
+	}
+		 
+		
+		
+	
+
+}

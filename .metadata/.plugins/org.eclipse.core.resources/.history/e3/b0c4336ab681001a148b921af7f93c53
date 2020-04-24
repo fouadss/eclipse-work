@@ -1,0 +1,27 @@
+package basic;
+
+public class MyVariables {
+
+	// declare variable
+	
+	
+	int b;
+	
+	static int c;
+	
+	
+	// initialize variable
+
+	
+	public static void main(String[] args) {
+		c=10;
+		
+		int a;
+		MyVariables v1= new MyVariables();
+	v1.b=60;
+	
+	 a= (c+ v1.b);
+	
+	}
+	
+}

@@ -1,0 +1,11 @@
+package basic;
+
+public class HelloWorld1 {
+
+	public static void main(String[] args) {
+		System.out.println("my  ");
+		String name="friend";
+		System.out.println("my "+name+".");
+	}
+	
+}

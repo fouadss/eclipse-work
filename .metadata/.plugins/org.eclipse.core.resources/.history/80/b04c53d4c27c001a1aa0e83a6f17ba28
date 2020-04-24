@@ -1,0 +1,26 @@
+package basic;
+
+public class NewClass {
+
+	public static void main(String[] args) {
+		int x = 5;
+		int y = 6;
+		int a = x + y;
+		int age = 26;
+		int fouadage = 30;
+		byte machinesize = 125;
+		String MAX_WIDTH = "40";
+		System.out.println(MAX_WIDTH);
+		System.out.println(a);
+		System.out.println("age is " + age);
+		System.out.println("fouadage is " + fouadage);
+		System.out.println(machinesize);
+
+		String morning = "good morning";
+		System.out.println(morning);
+		int morninglength= morning.length();
+		System.out.println("morninglength is "+ morninglength);
+
+	}
+
+}

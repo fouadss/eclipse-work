@@ -1,0 +1,17 @@
+package basic;
+
+public class NewClass {
+
+	public static void main(String[] args) {
+	
+		Cube fouad=new Cube();
+		Cube mark=new Cube();
+		//System.out.println(Cube.noofstudenta());
+		System.out.println(fouad.noofstudenta());
+		System.out.println(mark.noofstudenta());
+	}
+	
+
+}
+	
+

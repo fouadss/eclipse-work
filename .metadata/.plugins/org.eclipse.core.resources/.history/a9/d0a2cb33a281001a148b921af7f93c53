@@ -1,0 +1,51 @@
+package firstpack;
+
+public class TestVariable {
+
+	
+	int length;
+	int width;
+	int bredth;
+	
+	
+	
+	public TestVariable(){
+		
+		
+		System.out.println("this is my default cons");
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+		
+
+			
+		
+			
+			
+			
+			
+		
+				
+			
+			
+			
+		
+	}
+		 
+		
+		
+	
+
+}

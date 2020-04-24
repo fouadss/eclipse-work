@@ -1,0 +1,24 @@
+package firstpack;
+
+public class TestVariable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		UseVariables student1 = new UseVariables();
+		
+		student1.sum("fouad", 20,15.32);
+		
+		UseVariables student2 = new UseVariables();
+		
+		student2.sum("lamara", 30,15.23);
+		UseVariables student3 = new UseVariables();
+		student3.sum("brahim", 25,15.23);
+		
+		
+		
+		
+	}
+
+}

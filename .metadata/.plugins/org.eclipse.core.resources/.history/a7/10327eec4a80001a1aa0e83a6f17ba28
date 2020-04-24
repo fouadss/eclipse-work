@@ -1,0 +1,12 @@
+package firstpackage;
+
+public class NewVariables {
+
+	int z=50;
+	
+	static int a=20;
+	public static void main(String[] args) {
+		int x=90;
+		System.out.println(a);
+	}
+}

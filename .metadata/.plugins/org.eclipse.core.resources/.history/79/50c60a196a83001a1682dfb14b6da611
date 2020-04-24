@@ -1,0 +1,26 @@
+package demo;
+
+public class ForLoopss {
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+		int[] myintarray= {100,31,26,48,58};
+		
+		for(int index = 0; index<5; index++) {
+			System.out.println(myintarray[index]);
+			
+			
+		}
+		
+		
+	}
+}

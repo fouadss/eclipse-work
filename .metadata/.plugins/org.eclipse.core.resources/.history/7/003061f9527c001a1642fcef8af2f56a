@@ -1,0 +1,12 @@
+package basic;
+
+public class MyClass {
+	public static void main(String[] args) {
+		Myfirstmethod("david");
+		
+	
+	}
+public static void Myfirstmethod(String name) {
+	System.out.println("hello " + name);
+}
+}

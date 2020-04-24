@@ -1,0 +1,7 @@
+package basic;
+
+public class MyClass {
+public static void Myfirstmethod() {
+	System.out.println("hello facebook");
+}
+}

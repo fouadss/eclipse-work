@@ -1,0 +1,42 @@
+package basic;
+
+public class UseStatic {
+	static int age=24;
+	String computerbrandname="samsung";
+	int computerramsize=16;
+	double computerprice=1000.500;
+	
+	   
+	
+	
+	
+public static void main(String[] args) {
+
+int subject1=40;
+int subject2=60;
+if(subject1>=41 && subject2>=41) {
+	
+	System.out.println("the condition is  true");
+	
+} else {
+	System.out.println("the condition is not true");
+}
+
+
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+

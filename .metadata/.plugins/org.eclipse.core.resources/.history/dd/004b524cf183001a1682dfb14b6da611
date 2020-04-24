@@ -1,0 +1,65 @@
+package firstone;
+
+public class ComputerClass {
+
+	
+	
+	//Create Computer class and use object, constructor, create methods, use if else, for loop
+	
+	// declare variables
+		String brand;
+		
+		double price;
+		int memory;
+		// create default constructor
+		
+		ComputerClass(){
+			
+			
+			System.out.println("this is computer class");
+			
+			
+		
+		}
+		
+		ComputerClass(String brand){
+			this.brand=brand;
+			
+		}
+		
+		
+		public static void setprice() {
+			
+			
+			
+		}
+		
+		
+		public int setmemory(int memory) {
+			
+			return memory;
+			
+		}
+		
+			}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+

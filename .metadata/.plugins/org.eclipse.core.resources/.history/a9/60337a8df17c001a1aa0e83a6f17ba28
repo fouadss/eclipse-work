@@ -1,0 +1,34 @@
+package basic;
+
+public class Cube {
+
+  String name;
+  int age;
+  static int noofstudents=0;
+  Cube(){
+	  
+	  noofstudents++;
+  }
+  public static int noofstudenta() {
+	  return noofstudents;
+  }
+public String getName() {
+	return name;
+  }
+
+
+
+
+
+public void setname(String name){
+	this.name=name;
+}	
+public int getage() {
+	return age;
+}
+public void setage(int age) {
+	this.age=age;
+}
+ }
+
+

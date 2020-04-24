@@ -1,0 +1,40 @@
+package firstpack;
+
+public class TestVariable {
+
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+		
+		int x=10;
+		int y=20;
+		
+		
+		if(x>y) {
+			
+			System.out.println("this is false");
+		}else if(x<y) {
+				
+				System.out.println("this is right");
+		}else if (x==y) {
+			
+			System.out.println("this is not right too");
+		}
+				
+			
+			
+			
+		
+		
+		 
+		
+		
+	}
+
+}

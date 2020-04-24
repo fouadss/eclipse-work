@@ -1,0 +1,38 @@
+package demo;
+
+public class LogicalOperatorrrrr {
+
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+		
+	int s1=50;
+	int s2=60;
+	if((s1>=51) || (s2>=40)) {
+		
+		System.out.println("your answer is true");
+		
+	} else {
+		System.out.println("your answer is false");
+		
+	}
+		
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+}

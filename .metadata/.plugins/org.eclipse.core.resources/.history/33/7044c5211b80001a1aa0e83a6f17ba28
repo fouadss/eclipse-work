@@ -1,0 +1,21 @@
+package firstpackage;
+
+public class MyClass {
+
+	
+	public static void main(String[] args) {
+		Student messi= new Student();
+	messi.setId(100);
+	messi.setAge(30);
+	messi.setName("messi");
+	messi.setSalary(1253.235);
+	
+	
+	System.out.println("messi's name is "+ messi.getName());
+	System.out.println("messi's id is "+messi.getId());
+	System.out.println("messi'age is "+ messi.getAge());
+	System.out.println("messi's salary is "+ messi.getSalary());
+	
+	
+	}
+}

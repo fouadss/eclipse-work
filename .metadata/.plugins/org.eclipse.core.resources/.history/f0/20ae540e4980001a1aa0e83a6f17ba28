@@ -1,0 +1,18 @@
+package firstpackage;
+
+public class NewVariables {
+
+	public static void main(String[] args) {
+
+		SayHello("kohn");
+		
+  
+	}
+
+	public static void SayHello(String name) {
+	
+		System.out.println();
+		
+	}
+	
+}

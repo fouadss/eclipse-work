@@ -1,0 +1,25 @@
+package demo;
+
+public class ForLoopss {
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+		int[] myintarray= {100,150,35,45,89};
+		
+		int index=0;
+		while(index<5) {
+			System.out.println(myintarray[0]);
+			index++;
+		}
+		
+	}
+}

@@ -1,0 +1,20 @@
+package basic;
+
+public class UseVariables {
+
+	
+	int x=5;
+	int p=7;
+	static int z=10;
+	public static void main(String[] args) {
+		System.out.println(UseVariables.z);
+		UseVariables objectName= new UseVariables();
+		System.out.println(objectName.x);
+		System.out.println(objectName.z);
+		
+		objectName.x=5;
+	}
+	
+	
+	
+}

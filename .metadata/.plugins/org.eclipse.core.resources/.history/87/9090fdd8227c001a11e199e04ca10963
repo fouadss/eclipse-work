@@ -1,0 +1,53 @@
+package basic;
+
+public class UseStatic {
+	static int age=24;
+	String computerbrandname="samsung";
+	int computerramsize=16;
+	double computerprice=1000.500;
+	
+	   
+	
+	
+	
+public static void main(String[] args) {
+
+	int a=0;
+	while(a<=10)
+	{
+		System.out.println(a);
+		a++;
+	}
+	
+	int b=0;
+	do {
+		System.out.println(b);
+		b++;
+	}while(b<=10);
+	
+	
+	
+	
+	
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

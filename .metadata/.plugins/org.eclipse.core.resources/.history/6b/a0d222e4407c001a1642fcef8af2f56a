@@ -1,0 +1,20 @@
+package basic;
+
+public class computer {
+	static int age=25;
+	public static String computerbrandname;
+	
+	
+	
+	
+public static void main(String[] args) {
+	
+	int[] myintaray= {1110,252,300,152,255};
+	int index=4;
+	while(index<5) {
+	System.out.println(myintaray[index]);
+	index++;
+	
+	}
+}
+}

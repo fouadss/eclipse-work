@@ -1,0 +1,38 @@
+package demo;
+
+public class IfElseee {
+
+	
+	public static void main(String[] args) {
+		
+		int x=20;
+		if(x==20) {
+			
+			
+			System.out.println("the answer is right");
+		}else{
+			
+			System.out.println("the answer is wrong");
+			
+		
+		}if(x>10) {
+			
+			
+		}
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

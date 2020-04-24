@@ -1,0 +1,22 @@
+package firstone;
+
+public class ComputerPractice {
+
+	
+	public static void main(String[] args) {
+		
+		
+	ComputerClass s1 = new ComputerClass();
+	
+	
+	
+	
+	}
+	
+	
+	
+	
+	
+	
+	
+}

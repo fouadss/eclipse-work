@@ -1,0 +1,35 @@
+package basic;
+
+import java.util.*;
+
+public class UseScanner {
+
+	
+		 public static void main(String[] args) {
+			 
+			 Scanner myscanner= new Scanner(System.in);
+			 
+			
+			 int a= myscanner.nextInt();
+			 int b= myscanner.nextInt();
+			 String name = myscanner.nextLine();
+			 double d = myscanner.nextDouble();
+			  
+			 
+			 
+			 System.out.println("this is my number: "+ a);
+			 System.out.println("this is my grade: "+ b);
+			 System.out.println(" this is my name: "+name);
+			 System.out.println("this is may salary: "+d);
+			 
+			 
+			
+			
+		}
+		
+		
+		
+		
+	
+	
+}

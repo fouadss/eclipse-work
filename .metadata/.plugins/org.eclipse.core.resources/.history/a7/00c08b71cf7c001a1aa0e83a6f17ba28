@@ -1,0 +1,14 @@
+package basic;
+
+public class NewClass {
+
+	public static void main(String[] args) {
+		
+		Student fouad= new Student();
+		fouad.id=30217;
+		fouad.name="fouad";
+		fouad.age=26;
+		System.out.println(fouad.name+" is "+fouad.age+" years old.");		
+}
+
+}

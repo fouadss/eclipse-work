@@ -1,0 +1,13 @@
+package basic;
+
+public class Hello {
+
+	public static void main(String[] args) {
+	System.out.println("Azul a Fouad");
+	int a=5;
+	int b= 9;
+	int c = a+b;
+	System.out.println("the total result is: " +c);
+	}
+
+}

@@ -1,0 +1,12 @@
+package basic;
+
+public class Cube {
+
+	private String name;
+	private int age;
+	
+  
+
+ }
+
+

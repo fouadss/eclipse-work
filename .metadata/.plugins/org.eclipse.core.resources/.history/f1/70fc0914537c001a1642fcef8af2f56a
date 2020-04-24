@@ -1,0 +1,17 @@
+package basic;
+
+public class MyClass {
+	public static void main(String[] args) {
+		Myfirstmethod("david");
+		Myfirstmethod("mathew");
+		Myfirstmethod("ronaldo");
+		Myfirstmethod("messi");
+		Myfirstmethod("gerard");
+		Myfirstmethod("donald");
+		
+	
+	}
+public static void Myfirstmethod(String name) {
+	System.out.println("hello " + name);
+}
+}

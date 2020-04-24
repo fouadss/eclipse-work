@@ -1,0 +1,27 @@
+package firstpack;
+
+public class TestVariable {
+
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+		
+		UseVariables obj= new UseVariables();
+		 obj.a=10;
+		 obj.b=20;
+		 obj.name="messi";
+		 obj.salary=4521.253;
+		 obj.sum=obj.a+obj.b;
+		 
+		
+		System.out.println("the sum of a&b is:  "+ obj.sum);
+		
+		
+	}
+
+}

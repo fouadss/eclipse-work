@@ -1,0 +1,14 @@
+package basic;
+
+public class MyClass {
+	public static void main(String[] args) {
+		Myfirstmethod();
+		Myfirstmethod();
+		Myfirstmethod();
+		Myfirstmethod();
+		Myfirstmethod();
+	}
+public static void Myfirstmethod() {
+	System.out.println("hello facebook");
+}
+}

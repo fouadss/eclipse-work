@@ -1,0 +1,49 @@
+package firstshow;
+
+public class UseVar {
+
+	// declare variables 
+	// global variables 
+	// static variables
+	// local variables
+	
+	
+	// declare variable
+	String fName;
+	String lName;
+	int age;
+   double weight;
+	
+	 // initialization
+	
+	 fName="rachid";
+	 lName="mouffek";
+ age=20;
+	 weight=155.50;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+	}
+	
+}

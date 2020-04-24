@@ -1,0 +1,25 @@
+package basic;
+
+public class  Cube extends NewClass {
+
+	byte age=120;
+	int number=45;
+	short dailysale=4563;
+	long annualsale=65231247;
+	String fullname ="fouad sidi said";
+	
+	public static void main(String[] args) {
+		
+		
+		Cube newobj= new Cube();
+		
+		System.out.println(newobj.fullname);
+		System.out.println(newobj.annualsale);
+	}
+		
+	
+  
+
+ }
+
+

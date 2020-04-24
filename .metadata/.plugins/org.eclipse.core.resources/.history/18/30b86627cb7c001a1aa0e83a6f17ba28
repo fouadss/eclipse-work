@@ -1,0 +1,17 @@
+package basic;
+
+public class NewClass {
+
+	public static void main(String[] args) {
+		add(10,20,50);
+		add(25,50,20);
+	}
+public static void mymethod(String name) {
+	
+	System.out.println("how are you doing " + name);	
+}
+public static void add(int a,int b,int c) {
+	System.out.println(a+b-c);
+}
+
+}

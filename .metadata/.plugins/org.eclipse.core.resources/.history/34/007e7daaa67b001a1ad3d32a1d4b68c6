@@ -1,0 +1,51 @@
+package basic;
+
+public class UseStatic {
+	static int age=24;
+	String computerbrandname="samsung";
+	int computerramsize=16;
+	double computerprice=1000.500;
+	
+	   
+	
+	
+	
+public static void main(String[] args) {
+int score=100;
+switch (score)
+{
+case 100:
+case 60:
+System.out.println(" bad");
+break;
+case 90:
+	System.out.println(" good");
+	break;
+case 40:
+	System.out.println("the score is "+"ok");
+	break;
+	default:
+		System.out.println("the grades are not defined");
+		break;
+}
+
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

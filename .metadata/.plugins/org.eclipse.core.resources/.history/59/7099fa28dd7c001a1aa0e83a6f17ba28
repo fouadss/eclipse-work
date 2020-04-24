@@ -1,0 +1,16 @@
+package basic;
+
+public class Cube {
+int length;
+int bredth;
+int height;
+public int getCubeVolume() {
+	return(length * bredth * height);
+}
+
+ Cube(){
+	 System.out.println("this is constructor");
+
+ }
+
+}

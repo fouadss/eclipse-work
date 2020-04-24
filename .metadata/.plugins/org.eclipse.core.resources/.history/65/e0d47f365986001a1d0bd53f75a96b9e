@@ -1,0 +1,27 @@
+package demo;
+
+public class ForLoopss {
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+	
+	
+	System.out.println("hello \nAlexandra Abramov");
+	
+	
+	
+	
+	
+	
+	
+	}
+}

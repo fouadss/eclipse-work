@@ -1,0 +1,16 @@
+package firstpack;
+
+public class TestVariable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		UseVariables obj = new UseVariables();
+		
+		obj.sum();
+		
+		
+	}
+
+}

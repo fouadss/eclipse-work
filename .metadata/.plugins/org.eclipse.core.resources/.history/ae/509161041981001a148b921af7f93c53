@@ -1,0 +1,28 @@
+package firstpack;
+
+public  class UseVariables {
+	
+	int a;
+	int b;
+	String name;
+	double salary;
+	int sum;
+	
+	
+	public static void main(String[] args) {
+		
+		
+		 
+		 
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	} 
+
+

@@ -1,0 +1,30 @@
+package demo;
+
+public class ForLoopss {
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		
+	int a=50;
+	int b=3;
+	int division= a/b;
+	System.out.println("the total of the numbers is "+division);
+	
+	System.out.println("hello \nAlexandra Abramov");
+	
+	
+	
+	
+	
+	
+	
+	}
+}

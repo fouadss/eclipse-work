@@ -1,0 +1,37 @@
+package firstone;
+
+public class PracticePizza {
+
+	
+	
+	
+	
+		
+		
+		
+		public static void main(String[] args) {
+			
+			
+			PizzaClass obj1 = new PizzaClass();
+			
+			
+			
+			
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

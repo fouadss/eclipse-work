@@ -1,0 +1,22 @@
+package basic;
+
+public class computer {
+	static int age=25;
+	public static String computerbrandname;
+	
+	
+	
+	
+public static void main(String[] args) {
+	
+String mystring="hello   "+ "everyone";
+int mystringlength= mystring.length();
+String mystringlowercase=mystring.toLowerCase();
+
+System.out.println(mystringlowercase);
+		
+		
+		
+	}
+
+}

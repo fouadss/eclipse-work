@@ -1,0 +1,38 @@
+package basic;
+
+public class UseStatic {
+	static int age=24;
+	String computerbrandname="samsung";
+	int computerramsize=16;
+	double computerprice=1000.500;
+	
+	   
+	
+	
+	
+public static void main(String[] args) {
+
+int x=10;
+int y=5;
+if(x==10) {
+	System.out.println("yes x==10");
+	
+	
+	
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+}
+
+

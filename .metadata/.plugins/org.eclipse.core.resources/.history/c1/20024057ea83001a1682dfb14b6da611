@@ -1,0 +1,92 @@
+package firstone;
+
+public class ComputerClass {
+
+	
+	
+	//Create Computer class and use object, constructor, create methods, use if else, for loop
+	
+	// declare variables
+		String brand;
+		
+		double price;
+		int memory;
+		// create default constructor
+		ComputerClass(){
+			
+			System.out.println(" this is our computer  class");
+			
+			
+		}
+		
+		// create paramiterized constructor
+		ComputerClass(String brand){
+			
+			this.brand=brand;
+			
+			System.out.println(this.brand);
+			
+			
+		}
+		
+		public static void setprice(double price) {
+			
+			
+			price=price;
+			
+			
+			
+			System.out.println(price);
+		}
+		
+			
+		public double setPrice(double price) {
+			System.out.println("the price is: "+"$"+price);
+			price=15.99;
+			if(price<15) {
+				System.out.println("this pizza's price is affordable");
+			}else if(price>15) {
+				System.out.println("this pizza is so expensive");
+			}else {
+				System.out.println("it's your choice  ");
+		}
+			
+			
+			
+			return price;
+			
+			
+			
+	}
+		
+		
+		public  void setmemory(int memory) {
+			int memory=memoryIncrease;
+			double a=
+			
+			for(priceIncrease=0;priceIncrease<5;priceIncrease++) {
+				
+				System.out.println(priceIncrease);
+				
+			}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

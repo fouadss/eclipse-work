@@ -1,0 +1,95 @@
+package basic;
+
+import java.util.Scanner;
+
+public class Pizza {
+
+	
+	
+	
+	
+	
+	
+	 static  String pizzaname;
+	    String topping;
+	    String size;
+	    double price;
+
+
+	    Pizza(){
+	        System.out.println(" this is default constructor");
+
+
+	    }
+	    Pizza(String pizzaname){
+	      
+	        this.pizzaname = pizzaname;
+	        System.out.println(pizzaname);
+	    }
+	  public static void setTopping(String topping){
+	     
+	      topping= topping;
+
+	      System.out.println("this pizza has only "+topping);
+
+
+	  }
+	  public String setSize(){
+	      
+	       size= size;
+	       System.out.println("this piza is "+size);
+	        return size;
+
+	  }
+	   public double setPrice(){
+         System.out.println(" this pizza costs "+price);
+	       for(int a=0;a<6;a++);
+	       System.out.println(price);
+	       if(price==14.99){
+	           System.out.println("this is medium size  pizza");
+	       }else if(price>14.99){
+	           System.out.println(" this pizza should be large");
+	       }else if(price<14.99){
+	           System.out.println(" this pizza should be small");
+	       }
+
+	        return price;
+
+	   }
+	    public static void main(String[] args) {
+	      String size1="small";
+	      String size2="large";
+	      String toppin1="vegetable";
+	      String topin2="meat";
+	      double price1=18.99;
+	      double price2= 11.99;
+           
+	      
+	      Pizza.pizzaname="italian";
+
+	        obj1.price=14.99;
+	        obj1.size="medium";
+	        Pizza.setTopping(" cheese");
+	        Pizza obj1 = new Pizza();
+	       
+	        
+	        
+
+	Scanner myscan = new Scanner(System.in);
+	        System.out.println(" hello, what would you eat today?");
+	        System.out.println(" what kind of pizza would you like");
+	        pizzaname= myscan.nextLine();
+	        System.out.println(" how would you like it ? ");
+	        toppin1= myscan.nextLine();
+	        System.out.println(" how about the size ?");
+	        size1= myscan.nextLine();
+	       
+         myscan.close();
+        
+       
+	    }
+
+	
+	
+	
+}

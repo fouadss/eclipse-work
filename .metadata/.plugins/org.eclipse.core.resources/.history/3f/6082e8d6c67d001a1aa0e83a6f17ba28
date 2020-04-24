@@ -1,0 +1,14 @@
+package basic;
+
+public class UseVariables {
+
+	
+	int x=5;
+	static int z=10;
+	public static void main(String[] args) {
+		System.out.println(UseVariables.z);
+	}
+	
+	
+	
+}

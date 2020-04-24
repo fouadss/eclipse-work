@@ -1,0 +1,25 @@
+package firstpack;
+
+public class Cube {
+
+	
+	
+	int length;
+	int width;
+	int bredth;
+
+	
+public int getcubeVolume() {
+	
+	return(length*width*bredth);
+}
+	
+	Cube(){
+		
+		
+		System.out.println("we are creating constructor");
+	}
+	
+	
+
+}

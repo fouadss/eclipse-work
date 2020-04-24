@@ -1,0 +1,28 @@
+package firstpackage;
+
+public class Student {
+
+	
+	
+		
+		
+		int id;
+		int age;
+		String name;
+		int grade ;
+		double salary;
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

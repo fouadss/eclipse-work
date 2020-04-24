@@ -1,0 +1,15 @@
+package basic;
+
+public class UseAccessModifier {
+
+	
+	
+	
+	public String name="james william";
+	private static String ssn="111-222-3333";
+	protected int mobileNumber=111222555;
+	String fName="james";
+	public static void main(String[] args) {
+		System.out.println(UseAccessModifier.ssn);
+	}
+}

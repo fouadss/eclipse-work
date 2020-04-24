@@ -1,0 +1,19 @@
+package basic;
+
+public class NewClass {
+
+	public static void main(String[] args) {
+	
+		Cube hello = new Cube();
+		Cube.DoSomething("hi youtube");
+		hello.DoSomethingElse("hello everyone");
+		Cube.age=20;
+		System.out.println(Cube.age);
+		System.out.println(Cube.DoSomething("hi u doing"));
+		System.out.println(hello.DoSomethingElse("i'm doing good"));
+	}
+	
+
+}
+	
+
